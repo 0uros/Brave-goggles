@@ -1,0 +1,22 @@
+! name: Goggle para Promociones Bancarias en Argentina
+! description: Potenciar búsquedas de promociones en páginas de bancos argentinos.
+! public: false
+! author: Ouros
+
+! Potenciar resultados de bancos argentinos
+$site=www.modo.com.ar/promos
+$site=prexcard.com.ar/promos
+$site=beneficios.iupp.com.ar/beneficios/9/cuenta-chat
+$site=icbc.com.ar
+$site=galicia.ar/personas/buscador-de-promociones
+$boost=3
+
+! Incluir otros bancos argentinos si es necesario, siguiendo el mismo patrón
+
+! Indicar que estamos buscando promociones
+/promociones/
+/promos/
+/descuentos/
+/ofertas/
+/beneficios/
+/buscador-de-promociones/
