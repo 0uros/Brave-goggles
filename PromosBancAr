@@ -4,11 +4,11 @@
 ! author: Ouros
 
 ! Potenciar resultados de bancos argentinos
-$site=www.modo.com.ar/promos
-$site=prexcard.com.ar/promos
-$site=beneficios.iupp.com.ar/beneficios/9/cuenta-chat
+$site=www.modo.com.ar
+$site=prexcard.com.ar
+$site=beneficios.iupp.com.ar
 $site=icbc.com.ar
-$site=galicia.ar/personas/buscador-de-promociones
+$site=galicia.ar
 $boost=3
 
 ! Incluir otros bancos argentinos si es necesario, siguiendo el mismo patrón
@@ -20,3 +20,5 @@ $boost=3
 /ofertas/
 /beneficios/
 /buscador-de-promociones/
+/beneficios/9/cuenta-chat/
+/personas/buscador-de-promociones/
